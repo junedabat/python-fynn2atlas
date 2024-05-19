@@ -1,5 +1,5 @@
 # 🐍🖥️ Fynn to Atlas Converter ⚔️
-#### 🐍 [See my other Python projects](https://github.com/junedabat/Python) 
+#### 🐍 [See my other Python projects](https://github.com/junedabat/My-Python-Projects) 
 
 ### 🖥️ This is a terminal-based Python application to convert text data files from Fynn to Atlas
 
